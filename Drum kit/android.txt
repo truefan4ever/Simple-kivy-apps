@@ -1,0 +1,3 @@
+title=Drum kit
+author=TKV
+orientation=landscape
